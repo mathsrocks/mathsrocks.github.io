@@ -11,12 +11,12 @@ Unexpectedly, the first bump I encountered while setting up the Google Cloud Pla
 
 ## Performance comparison: with vs. without a GPU
 GCE instance (machine type: n1-standard-8 (8 vCPUs, 30 GB memory))
-![GCE instance with CPU only](images/gce-cpu-only.png)
+![GCE instance with CPU only](/images/gce-cpu-only.png)
 
 vs.
 
 Google Colab with GPU
-![GCE instance with hardware accelerator GPU on](images/colab-gpu.png)
+![GCE instance with hardware accelerator GPU on](/images/colab-gpu.png)
 
 GPU speeds up training the DL model by a considerable large margin, i.e. its training time each epoch is about 1/5 of the CPU-only counterpart.
 
