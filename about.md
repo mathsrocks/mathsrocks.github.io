@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Living a life as a _convex combination of languages including math, natural and programming languages, and a fan of data big or small. A Bayesian and Stoic in the making.
